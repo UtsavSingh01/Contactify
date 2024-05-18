@@ -1,0 +1,6 @@
+@Contactify_HostAddress = http://localhost:5179
+
+GET {{Contactify_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
